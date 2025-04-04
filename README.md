@@ -45,9 +45,9 @@ Due to GitHub file size constraints, both the original and processed SHREC 2020 
 ### External Access
 
 - **Official Source**: [SHREC 2020 Dataset (Dataverse)](https://dataverse.nl/dataset.xhtml?persistentId=doi:10.34894/Y2ZMRH)
-- **Google Drive Mirror (Processed + Raw)**: [Dataset Folder](https://drive.google.com/drive/folders/1ROgxmjFOAZoFKB19cl94RgeFqtbcCfjz?usp=sharing)
+- **Google Drive Mirror**: [Dataset Folder](https://drive.google.com/drive/folders/1ROgxmjFOAZoFKB19cl94RgeFqtbcCfjz?usp=sharing)
 
-### Directory Contents
+### Google Drive Directory Contents
 
 | Folder/File              | Description                                                                |
 |--------------------------|----------------------------------------------------------------------------|
