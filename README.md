@@ -80,13 +80,7 @@ Pretrained ConvNeXt model weights and checkpoints are available via Google Drive
 
 ---
 
-## Results
-
-Certainly! Here’s a **concise and coherent version** of the results section with both tables clearly presented, trimmed of repetition while retaining all critical details:
-
----
-
-### 📈 Results
+### Results
 
 The models were evaluated on the test tomogram (Tomogram 9), containing 2782 particles from 12 protein classes. Both ConvNeXt V1 and V2 demonstrated high performance:
 
@@ -99,7 +93,7 @@ The models were evaluated on the test tomogram (Tomogram 9), containing 2782 par
 
 ---
 
-#### F1 Score Comparison per class with leading methods from [the SHREC 2020 challenge](https://doi.org/10.1016/j.cag.2020.07.010)
+#### F1 Score Comparison per class with leading methods from the [SHREC 2020 challenge paper](https://doi.org/10.1016/j.cag.2020.07.010)
 
 > **Bold** values indicate the highest score per class.
 
